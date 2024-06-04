@@ -14,6 +14,8 @@
 	<artifactId>spring-boot-mongo</artifactId>
 	<version>1.0</version>
 	<properties>
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
+		<sonar.login>squ_5602019f89955ad53596cfa68606efb2f320eeb6</sonar.login>
 		<java.version>1.8</java.version>
 		<spring-boot.version>2.1.5.RELEASE</spring-boot.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
